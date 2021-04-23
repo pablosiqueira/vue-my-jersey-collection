@@ -1,7 +1,7 @@
 <template>
     <div id="celtic-18-19-home" class="pb-3">
         <Title cresturl="sampdoria.png" club="Sampdoria" desc="17/18 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/sampdoria-17-18-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/sampdoria-17-18-home"/>
     
         <ImageArea img_src = "sampdoria-17-18-home/sampdoria1.jpg" img_alt = "The Celtic team is raising the scottish championship throphy."/>
 

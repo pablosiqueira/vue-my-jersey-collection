@@ -1,7 +1,7 @@
 <template>
     <div id="milan-19-20-home" class="pb-3">
         <Title cresturl="milan.png" club="Milan" desc="19/20 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/milan-19-20-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/milan-19-20-home"/>
     
         <ImageArea img_src = "milan-18-19-home/milan1.jpg" img_alt = "Milan payers celebrating a goal during a match."/>
 

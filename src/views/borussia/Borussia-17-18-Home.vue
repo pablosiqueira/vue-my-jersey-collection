@@ -1,7 +1,7 @@
 <template>
     <div id="borussia-dortmund-98-99-home" class="pb-3">
         <Title cresturl="borussia.png" club="Borussia Dortmund" desc="17/18 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/borussia-98-99-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/borussiadortmund-17-18-home"/>
     
         <ImageArea img_src = "borussia-17-18-home/borussia3.jpg" img_alt = "The Borussia Dortmund squad celebrating the conquering of 
         the 16/17 DFB Cup. Marco Reus is raising the throphy in the center of the image."/>

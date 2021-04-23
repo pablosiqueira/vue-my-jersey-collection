@@ -1,7 +1,7 @@
 <template>
     <div id="manutd-98-99-home" class="pb-3">
         <Title cresturl="mtd.png" club="Manchester United" desc="98/99 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/manutd-98-99-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/manutd-98-99-home"/>
     
         <ImageArea img_src = "manutd-98-99-home/manutd1.jpg" img_alt = "Manchester United players (Beckham, Giggs, Sheringham and Cole) 
         are forming a free kick barrier during a match in 1999."/>

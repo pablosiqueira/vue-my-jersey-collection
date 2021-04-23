@@ -30,7 +30,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
-            <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by Pablo Siqueira. 
+            <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by Pablo Siqueira. Page created using Vue CLI.
             </p>
           </div>
         </div>

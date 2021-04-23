@@ -1,7 +1,7 @@
 <template>
     <div id="spfc-12-away" class="pb-3">
         <Title cresturl="spfc.png" club="São Paulo F.C." desc="2012 Season Away Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/spfc-2012-away.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/spfc-12-away"/>
     
         <ImageArea img_src = "spfc-12-away/spfc1.jpg" img_alt = "Photo of the 2012 Copa Sudamericana title celebration after the final 
         match. The São Paulo captain Rogério Ceni is raising the throphy and Lucas Moura is on his side with arms raised."/>

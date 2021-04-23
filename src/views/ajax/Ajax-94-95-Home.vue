@@ -1,7 +1,7 @@
 <template>
     <div id="ajax-94-95-home" class="pb-3">
         <Title cresturl="ajax.png" club="AFC Ajax" desc="94/95 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/ajax-98-99-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/ajax-94-95-home"/>
     
         <ImageArea img_src = "ajax-94-95-home/ajax1.jpg" img_alt = "The Ajax squad is lined up for a team photo before a match."/>
 

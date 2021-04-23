@@ -1,7 +1,7 @@
 <template>
     <div id="france-08-home" class="pb-3">
         <Title cresturl="france.png" club="French National Team" desc="Euro 2008 Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/france-08-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/france-08-home"/>
     
         <ImageArea img_src = "france-08-home/france1.jpg" img_alt = "The players from the french team
                   are lined up for a team photo before a match."/>

@@ -1,7 +1,7 @@
 <template>
     <div id="manutd-94-95-away" class="pb-3">
         <Title cresturl="mtd.png" club="Manchester United" desc="94/95 Season Away Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/manutd-98-99-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/manutd-94-95-away"/>
     
         <ImageArea img_src = "manutd-94-95-away/manutd1.jpg" img_alt = "Eric Cantona is kicking a hooligan in the match angainst Crystal
         Palcae on january 25 1995"/>

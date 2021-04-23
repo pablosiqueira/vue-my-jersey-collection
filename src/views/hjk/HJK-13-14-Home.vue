@@ -1,7 +1,7 @@
 <template>
     <div id="hjk-18-19-home" class="pb-3">
         <Title cresturl="hjk2.png" club="HJK Helsinki" desc="13/14 Season Home Jersey" author="Pablo Siqueira" datet = "2021-02-25 09:00"
-        date = "25 February 2021" my_url="https://pablosiqueira.github.io/myjerseycollection/details_pages/hjk-13-14-home.html"/>
+        date = "25 February 2021" my_url="https://elegant-clarke-e140bf.netlify.app/#/hjk-13-14-home"/>
     
         <ImageArea img_src = "hjk-13-14-home/hjk1.jpg" img_alt = "The HJK squad is lined up for a team photo before a match."/>
 
