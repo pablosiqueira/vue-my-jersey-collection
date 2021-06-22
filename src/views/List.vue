@@ -58,6 +58,7 @@ export default {
   },
   mounted () {
   window.scrollTo(0, 0)
+  document.getElementById('favicon').href = 'https://raw.githubusercontent.com/pablosiqueira/myjerseycollection/main/details_pages/icons/favicon.ico'
 }
 }
 </script>
@@ -67,6 +68,7 @@ export default {
     height: 150px;
     width: 150px;
     object-fit: cover;
+    transition: .5s;
 }
 .img-1:hover, .img-2:hover{
     transform: scale(1.1);

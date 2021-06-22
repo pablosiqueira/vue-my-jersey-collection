@@ -1,19 +1,19 @@
 <template>
   <header>
-    <nav class="navbar navbar-expand-lg fixed-top navbar-dark">
+    <nav class="navbar navbar-expand-lg fixed-top navbar-dark" id="navbar">
         <div class="container-fluid">
-          <a class="navbar-brand font-lobster fs-2"><router-link to="/home">My Jersey Collection</router-link></a>
+          <a class="navbar-brand font-lobster fs-2" id="nav-title"><router-link to="/home">My Jersey Collection</router-link></a>
           <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
           <b-collapse id="nav-collapse" is-nav>
             <ul class="navbar-nav">
               <li>
-                <router-link to="/home" class="nav-link active nav_item text_form">Home</router-link>
+                <router-link to="/home" class="nav-link active nav_item text_form" id="home-nav">Home</router-link>
               </li>
               <li>
-                <router-link to="/jersey-list" class="nav-link active nav_item text_form">List</router-link>
+                <router-link to="/jersey-list" class="nav-link active nav_item text_form" id="list-nav">List</router-link>
               </li>
               <li>
-                <a class="nav-link active nav_item text_form" aria-current="page" href="https://pablosiqueira.github.io/" target="_blank">
+                <a id="other-nav" class="nav-link active nav_item text_form" aria-current="page" href="https://pablosiqueira.github.io/" target="_blank">
                 Other Projects</a>
               </li>
             </ul>

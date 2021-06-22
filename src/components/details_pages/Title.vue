@@ -84,7 +84,11 @@ h2, p, date{
     max-height: 30px;
     max-width: 30px;
     height: 30px;
-    width: 30px
+    width: 30px;
+    transition: 1s
+}
+.icon-box:hover{
+    transform: scale(1.5);
 }
 
 </style>

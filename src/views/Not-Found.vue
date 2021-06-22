@@ -12,9 +12,9 @@
 
 export default {
   title: 'Error 404 - Page Not Found',
-  components: {
-  
-  },
+  mounted(){
+    document.getElementById('favicon').href = 'https://raw.githubusercontent.com/pablosiqueira/myjerseycollection/main/details_pages/icons/favicon.ico'
+  }
 
 }
 </script>

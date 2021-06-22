@@ -52,6 +52,7 @@ export default {
   },
   mounted () {
   window.scrollTo(0, 0)
+  document.getElementById('favicon').href = 'https://raw.githubusercontent.com/pablosiqueira/myjerseycollection/main/details_pages/icons/hjk.ico'
 }
 }
 </script>

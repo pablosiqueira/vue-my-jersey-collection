@@ -12,16 +12,9 @@
             home kit of Borussia Dortmund during a match." imgUrl = "borussia1.jpg" 
                 personalization = "Reus #11" club_page = "/borussiadortmund-17-18-home"/>
 
-          <Card title = "France 08 Home" season="Euro 08 Home" brand = "Adidas" country = "France" desc = "Thierry Henry wearing the blue france
-                kit during a match in 2008. He is holding the ball of the game after a goal." imgUrl = "france.jpg" 
-                club_page = "/france-08-home"/>
-
           <Card title = "Celtic" season="18/19 Home" brand = "New Balance" country = "Scotland" desc = "Celtic player wearing the home jersey of 
                 the team during a match from the 18/19 season." imgUrl = "celtic.jpg" 
                 club_page = "/celtic-18-19-home"/>
-
-          <Card title = "Sampdoria" season="17/18 Home" brand = "Joma" country = "Italy" desc = "A Sampdoria player wearing the team home 
-                jersey during a match from the 17/18 season." imgUrl = "samp1.png"  club_page = "/sampdoria-17-18-home"/>
 
           <Card title = "HJK" season="13/14 Home" brand = "Adidas" country = "Finland" desc = "HJK palyer with his right arm raised 
                 wearing the team home jersey during a match in 2014." imgUrl = "hjk.jpg"  personalization="Forsell #9"

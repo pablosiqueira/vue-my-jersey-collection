@@ -77,11 +77,13 @@ export default {
 }
 .site-footer a
 {
-  color:#737373;
+  text-decoration: underline;
+  color:yellow;
 }
 .site-footer a:hover
 {
   font-weight: bold;
+  color: yellow;
 }
 .footer-links
 {
