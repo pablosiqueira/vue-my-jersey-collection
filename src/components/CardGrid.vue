@@ -2,7 +2,7 @@
     <div id="cardgrid">
         <b-container fluid class="pb-3" id="shirts">
 
-        <b-row class="justify-content-center">
+        <b-row class="justify-content-center ">
 
           <Card title = "Manchester United"  season="98/99 Home" brand = "Umbro" country = "England" desc = "David Beckham wearing
                 the Manchester United home jersey of the 98/99 season during a match." imgUrl = "manutd.jpg" 
