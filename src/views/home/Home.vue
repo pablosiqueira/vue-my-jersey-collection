@@ -5,7 +5,7 @@
 
     <section class="pt-3">
         <h1 class="text-center fs-1">Football Jerseys Around The World</h1>
-        <h2 class="text-center fst-italic mx-5 pt-2">Every jersey has its own history to tell.</h2>
+        <h2 class="text-center fst-italic mx-5 pt-2">Every jersey has its own story to tell.</h2>
     </section>
 
     <CardGrid/>
