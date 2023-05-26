@@ -1,4 +1,17 @@
-# jersey-collection
+
+![Logo](https://raw.githubusercontent.com/pablosiqueira/vue-my-jersey-collection/main/src/assets/home/oldtraf.jpg)
+
+
+# My Jersey Collection
+
+Webpage that shows data about football jerseys with a list view and custom pages for each item.\
+Page made with VueJS.
+
+- [Visit page (deploy by Netlify)](https://elegant-clarke-e140bf.netlify.app/#/home)
+
+## Authors
+
+- [@pablosiqueira](https://www.github.com/pablosiqueira)
 
 ## Project setup
 ```
